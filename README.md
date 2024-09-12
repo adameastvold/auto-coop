@@ -7,3 +7,4 @@ Requirements:
 - Time Sensor
 - Safety Mechanism
 - Home Assistant Integration
+- Dashboard
