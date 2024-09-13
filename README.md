@@ -8,3 +8,4 @@ Requirements:
 - Safety Mechanism
 - Home Assistant Integration
 - Dashboard
+- Count Chickens?
