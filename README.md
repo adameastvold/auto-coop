@@ -9,3 +9,5 @@ Requirements:
 - Home Assistant Integration
 - Dashboard
 - Count Chickens?
+
+Python/ESP/Arduino
