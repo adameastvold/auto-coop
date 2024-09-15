@@ -7,5 +7,7 @@ Requirements:
 - Time Sensor
 - Safety Mechanism
 - Home Assistant Integration
+- Dashboard
+- Count Chickens?
 
-As of this moment I'm leaning toward Python. I'm undecided on the microprocessor. ESP may be the way.
+Python/ESP/Arduino
