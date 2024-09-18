@@ -5,6 +5,7 @@ This project is to build my own automatic chicken coop door and future automatio
 Requirements:
 - API
 - Time Sensor
+- Light Sensor
 - Safety Mechanism
 - Home Assistant Integration
 - Dashboard
