@@ -11,4 +11,4 @@ Requirements:
 - Dashboard
 - Count Chickens?
 
-Python/ESP/Arduino
+Python/React
