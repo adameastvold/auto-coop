@@ -6,7 +6,7 @@ Requirements:
 - API
 - Time Sensor
 - Light Sensor
-- Safety Mechanism
+- Safety Mechanism (similar to garage door sensor)
 - Home Assistant Integration
 - Dashboard
 - Count Chickens?
