@@ -13,4 +13,4 @@ Requirements:
 
 Python/React
 
-xl125
+xl125 1975
