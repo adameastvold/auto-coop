@@ -13,4 +13,4 @@ Requirements:
 
 Python/React
 
-xl125 1975 RUNNING
+xl125 Clean
