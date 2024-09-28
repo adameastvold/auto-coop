@@ -18,3 +18,4 @@ yt4500
 post
 neovim neorg?
 
+fc
