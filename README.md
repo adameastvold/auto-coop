@@ -19,4 +19,3 @@ post
 neovim neorg?
 
 fc
-sashimono
